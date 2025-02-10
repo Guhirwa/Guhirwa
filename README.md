@@ -1,40 +1,5 @@
 ## Hi there 👋
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>README - Software Engineer</title>
-    <style>
-        body {
-            background: #032B03;
-            color: white;
-            font-family: Arial, sans-serif;
-            text-align: center;
-            margin: 0;
-            padding: 20px;
-        }
-        h1, h2, h3 {
-            color: #00FF7F;
-        }
-        .badges a {
-            margin: 5px;
-        }
-        .skills-container, .tools-container {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            gap: 10px;
-            margin-top: 20px;
-        }
-        .skills-container img, .tools-container img {
-            width: 60px;
-            height: 60px;
-        }
-    </style>
-</head>
-<body>
-    <div id="header">
+<div id="header">
         <img src="https://media1.giphy.com/media/trN83pDD8yRDHBGfl3/giphy.gif?cid=ecf05e47195cs9nu70iya1ih6tkfwnnhor93q9t0wubhzyyi&ep=v1_gifs_related&rid=giphy.gif&ct=s" 
              style="width: 200px; height: 200px"/>
         <h1>👋 Hi there, I'm <span style="color: #FFD700;">Christian Guhirwa</span> 👨🏽‍💻</h1>
@@ -95,8 +60,6 @@
     <footer>
         <p>🚀 Always Learning & Building | 💡 Open to Collaborations</p>
     </footer>
-</body>
-</html>
 
 <!--
 **Guhirwa/Guhirwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
