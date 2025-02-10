@@ -1,3 +1,7 @@
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+    <img src="https://media1.giphy.com/media/trN83pDD8yRDHBGfl3/giphy.gif?cid=ecf05e47195cs9nu70iya1ih6tkfwnnhor93q9t0wubhzyyi&ep=v1_gifs_related&rid=giphy.gif&ct=s" style="width: 200px; height: 200px;"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm Christian GUHIRWA</h1>
 <h3 align="center">A passionate Web Developer From Rwanda</h3>
 
