@@ -1,5 +1,5 @@
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-    <img src="[https://media1.giphy.com/media/trN83pDD8yRDHBGfl3/giphy.gif?cid=ecf05e47195cs9nu70iya1ih6tkfwnnhor93q9t0wubhzyyi&ep=v1_gifs_related&rid=giphy.gif&ct=s](https://private-user-images.githubusercontent.com/54446750/350797848-ae1b468f-0902-4437-a27d-76a08c6edc21.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTYzMTIyNTgsIm5iZiI6MTc1NjMxMTk1OCwicGF0aCI6Ii81NDQ0Njc1MC8zNTA3OTc4NDgtYWUxYjQ2OGYtMDkwMi00NDM3LWEyN2QtNzZhMDhjNmVkYzIxLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA4MjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwODI3VDE2MjU1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBmNWRjZDlmNDhhMDIyYjhkOTU4OTk2Y2MxOGY0ODQxYTgxMmFlOTc1YWJhNWQzNDU3OWU2ODc1Njk3NGQwMTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.tfyu5Pv-3pu-1z5SEtV3AsU9zwIM8oFmcM3cosoPbLQ)" style="width: 200px; height: 200px;"/>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/ae1b468f-0902-4437-a27d-76a08c6edc21" width="300" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Christian GUHIRWA</h1>
